@@ -1,4 +1,4 @@
-Power a website with the most advanced JavaScript ever thought of
+#Power a website with the most advanced JavaScript ever thought of
 
 Features:
 
